@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-lucky-draw/static/css/main.903e324d.chunk.css",
+    "main.js": "/react-lucky-draw/static/js/main.054200b4.chunk.js",
+    "main.js.map": "/react-lucky-draw/static/js/main.054200b4.chunk.js.map",
+    "runtime-main.js": "/react-lucky-draw/static/js/runtime-main.f39bc7ba.js",
+    "runtime-main.js.map": "/react-lucky-draw/static/js/runtime-main.f39bc7ba.js.map",
+    "static/css/2.fd6c4d0c.chunk.css": "/react-lucky-draw/static/css/2.fd6c4d0c.chunk.css",
+    "static/js/2.219e5d54.chunk.js": "/react-lucky-draw/static/js/2.219e5d54.chunk.js",
+    "static/js/2.219e5d54.chunk.js.map": "/react-lucky-draw/static/js/2.219e5d54.chunk.js.map",
+    "index.html": "/react-lucky-draw/index.html",
+    "static/css/2.fd6c4d0c.chunk.css.map": "/react-lucky-draw/static/css/2.fd6c4d0c.chunk.css.map",
+    "static/css/main.903e324d.chunk.css.map": "/react-lucky-draw/static/css/main.903e324d.chunk.css.map",
+    "static/js/2.219e5d54.chunk.js.LICENSE.txt": "/react-lucky-draw/static/js/2.219e5d54.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/react-lucky-draw/static/media/bootstrap-icons.b7bcc075.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f39bc7ba.js",
+    "static/css/2.fd6c4d0c.chunk.css",
+    "static/js/2.219e5d54.chunk.js",
+    "static/css/main.903e324d.chunk.css",
+    "static/js/main.054200b4.chunk.js"
+  ]
+}
