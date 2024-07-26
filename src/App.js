@@ -20,10 +20,10 @@ function App() {
     localStorage.setItem("duration", 10);
 
   if (window.localStorage.getItem("wheelColor") === null)
-    localStorage.setItem("wheelColor", "#d38c12");
+    localStorage.setItem("wheelColor", "#00ff00");
 
   if (window.localStorage.getItem("fontColor") === null)
-    localStorage.setItem("fontColor", "#FFFFFF");
+    localStorage.setItem("fontColor", "#ffff00");
 
   const [wheelColor, setWheelColor] = useState(
     window.localStorage.getItem("wheelColor")
@@ -37,15 +37,7 @@ function App() {
     const value = window.localStorage.getItem("itemsList");
     return value !== null
       ? JSON.parse(value)
-      : [
-        "Tuấn",
-        "Tâm",
-        "Thư",
-        "Thảo",
-        "Quỳnh",
-        "Linh",
-        "Hương",
-        ];
+      : ["Tuấn", "Tâm", "Thư", "Thảo", "Quỳnh", "Linh", "Hương"];
   });
 
   function changeWheelAndFontColor(color) {
