@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-lucky-draw/static/css/main.ffd646de.chunk.css",
-    "main.js": "/react-lucky-draw/static/js/main.426ed6e0.chunk.js",
-    "main.js.map": "/react-lucky-draw/static/js/main.426ed6e0.chunk.js.map",
+    "main.js": "/react-lucky-draw/static/js/main.af497957.chunk.js",
+    "main.js.map": "/react-lucky-draw/static/js/main.af497957.chunk.js.map",
     "runtime-main.js": "/react-lucky-draw/static/js/runtime-main.f39bc7ba.js",
     "runtime-main.js.map": "/react-lucky-draw/static/js/runtime-main.f39bc7ba.js.map",
     "static/css/2.fd6c4d0c.chunk.css": "/react-lucky-draw/static/css/2.fd6c4d0c.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.fd6c4d0c.chunk.css",
     "static/js/2.219e5d54.chunk.js",
     "static/css/main.ffd646de.chunk.css",
-    "static/js/main.426ed6e0.chunk.js"
+    "static/js/main.af497957.chunk.js"
   ]
 }
